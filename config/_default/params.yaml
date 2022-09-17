@@ -26,19 +26,6 @@ marketing:
   verification:
     google: ''
     baidu: ''
-
-# Contact (edit or remove options as required)
-
-email: suman.rubd@yahoo.com
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow Me
-    link: 'https://twitter.com/oporazito'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:suman.rbd?call'
     
 # Site header
 
