@@ -71,9 +71,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=J8nRrGUAAAAJ&hl=en&authuser=2
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/sumangeo
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/sumangeo
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sumangeo/
