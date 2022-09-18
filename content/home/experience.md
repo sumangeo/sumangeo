@@ -21,28 +21,36 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   multiline `>-`
 
 experience:
-  - title: 'CEO'
-    company: 'GenCoin'
-    company_url: ''
-    company_logo: my-logo  # Optional logo
-    location: 'California'
-    date_start: '2017-01-01'
+  - title: 'Consultant - Data Processing'
+    company: 'Ministry of Land'
+    company_url: 'http://www.minland.gov.bd/'
+    company_logo: bd  # Optional logo
+    location: 'Dhaka'
+    date_start: '2021-04-11'
     date_end: ''
-    description: >-
+    description: |2-
         Responsibilities include:
-        * Analysing
-        * Modelling
-        * Deploying
+        * Conduct surveys
+        * Monitoring and Evaluation
+        * GIS and Remote sensing, Geospatial analysis
+        * Geodatabase, Land Use Information and Management Systems
                 
-  - title: 'Professor'
-    company: 'University X'
-    company_url: ''
-    company_logo: my-logo  # Optional logo
-    location: 'California'
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
-# columns: '2'
+  - title: 'Monitoring and ICT Officer'
+    company: 'DASCOH Foundation'
+    company_url: 'https://dascoh.org/'
+    company_logo: dascoh  # Optional logo
+    location: 'Rajshahi'
+    date_start: '2015-06-14'
+    date_end: '2021-04-08'
+    description: |2-
+        Responsibilities include:
+        * Conduct surveys using KoBo, ODK
+        * Monitoring and Evaluation
+        * Water policy, legal instruments
+        * Groundwater Monitoring, Hydrological investigation, analysis & Report
+        * GIS and Remote sensing
+columns: '2'
 ---

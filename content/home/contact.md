@@ -17,31 +17,24 @@ content:
 
 # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
-    netlify:
-    
-# Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+      id: xaykelvr
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
 # Contact details (edit or remove options as required)
-  email: suman.rubd@yahoo.com
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: Follow Me
       link: 'https://twitter.com/oporazito'
-
-# Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+    - icon: facebook
+      icon_pack: fab
+      name: Facebook
+      link: 'https://facebook.com/SumanGeo'
 
 design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
