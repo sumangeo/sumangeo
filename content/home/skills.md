@@ -25,7 +25,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 'I have 7 years of experience using ArcGIS'
-    icon: chart-line
+    icon: globe
     icon_pack: fas
     name: ArcGIS
 
