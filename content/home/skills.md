@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 'I have 2 years of experience using R'
+  - description: '2 years of experience using R'
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 'I have 3 years of experience using Python'
+  - description: '3 years of experience using Python'
     icon: python
     icon_pack: fab
     name: Python
@@ -32,10 +32,14 @@ feature:
     icon: object-group
     icon_pack: fas
     name: AutoCAD
-  - description: 'I have 7 years of experience of conducting data acquisition, surveying through KoBo Toolbox/ODK and relevant technologies'
-    icon: object-group
+  - description: '7 years of experience of conducting data acquisition, surveying through KoBo Toolbox/ODK and relevant technologies'
+    icon: square-poll-vertical
     icon_pack: fas
     name: Survey
+  - description: '7 years of experience of using SQL & advance-excel'
+    icon: database
+    icon_pack: fas
+    name: Database
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
