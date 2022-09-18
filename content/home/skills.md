@@ -32,6 +32,10 @@ feature:
     icon: object-group
     icon_pack: fas
     name: AutoCAD
+  - description: 'I have 7 years of experience of conducting data acquisition, surveying through KoBo Toolbox/ODK and relevant technologies'
+    icon: object-group
+    icon_pack: fas
+    name: Survey
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
