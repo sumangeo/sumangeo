@@ -28,7 +28,10 @@ feature:
     icon: globe
     icon_pack: fas
     name: ArcGIS
-
+  - description: 'I have 7 years of experience using AutoCAD'
+    icon: object-group
+    icon_pack: fas
+    name: AutoCAD
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
