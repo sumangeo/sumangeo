@@ -36,8 +36,9 @@ tags:
 featured: false
 
 links:
-- name: "Rainwater Harvesting"
-- url: "https://www.researchgate.net/publication/363693132_Rainwater_Harvesting_to_Alleviate_Water_Scarcity_in_Drought-prone_Barind_Tract_NWBangladesh_A_Case_Study"
+- name: "Researchgate"
+  url: "https://www.researchgate.net/publication/363693132_Rainwater_Harvesting_to_Alleviate_Water_Scarcity_in_Drought-prone_Barind_Tract_NWBangladesh_A_Case_Study"
+  
 # url_pdf: https://drive.google.com/file/d/17nCzXMD58dIRnAE5MLz4xk8XIvvrAtQG/view?usp=sharing
 # url_code: ''
 # url_dataset: ''

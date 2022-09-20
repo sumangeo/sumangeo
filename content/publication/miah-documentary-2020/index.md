@@ -24,7 +24,7 @@ publication_types: ['0']
 publication: 'DASCOH Foundation'
 publication_short: ''
 
-abstract: Women play a crucial role in water. What the scenario in Barind tract- a water-stressed zone of northern Bangladesh! This documentary of WRM Project of DASCOH Foundation reveals how they fight for water and works on its right.
+abstract: Women play a crucial role in water. What the scenario in Barind tract- a water-stressed zone of northern Bangladesh! This documentary of WRM Project of DASCOH Foundation reveals how they fight for water and works on its right.Enjoy the video ![Water and Women](https://youtu.be/0ofxHscv3Hg)
 
 # Summary. An optional shortened abstract.
 summary: Documentary on Water and Women.
@@ -37,9 +37,12 @@ tags:
   - Water
 featured: false
 
+# Custom links (uncomment lines below)
 # links:
 # - name: ""
 #   url: ""
+
+
 # url_pdf: https://drive.google.com/file/d/17nCzXMD58dIRnAE5MLz4xk8XIvvrAtQG/view?usp=sharing
 # url_code: ''
 # url_dataset: ''

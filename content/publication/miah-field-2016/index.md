@@ -36,14 +36,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: https://drive.google.com/file/d/17nCzXMD58dIRnAE5MLz4xk8XIvvrAtQG/view?usp=sharing
+url_pdf: KoBo-OMS-Plan.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-# url_video: ''
+url_video: 'https://youtu.be/5e6xSpfwZAA'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

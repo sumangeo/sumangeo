@@ -35,9 +35,12 @@ tags:
 
 featured: false
 
-# links:
-# - name: ""
-# url: "https://202.53.173.182/iwrm/MapViewer"
+# Custom links (uncomment lines below)
+links:
+- name: "Map Viewer"
+  url: "https://202.53.173.182/iwrm/MapViewer"
+
+
 # url_pdf: https://drive.google.com/file/d/17nCzXMD58dIRnAE5MLz4xk8XIvvrAtQG/view?usp=sharing
 # url_code: ''
 # url_dataset: ''

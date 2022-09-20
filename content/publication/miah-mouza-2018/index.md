@@ -1,5 +1,5 @@
 ---
-title: 'Mouza Map book'
+title: 'Mouza Map Book'
 authors:
   - admin
   
@@ -35,9 +35,12 @@ tags:
 
 featured: false
 
+# Custom links (uncomment lines below)
 links:
-- name: ""
-- url: "https://www.researchgate.net/publication/348690741_IWRM_Mouza_Map_Book"
+- name: "Map Atlas"
+  url: "https://www.researchgate.net/publication/348690741_IWRM_Mouza_Map_Book"
+
+
 # url_pdf: https://drive.google.com/file/d/17nCzXMD58dIRnAE5MLz4xk8XIvvrAtQG/view?usp=sharing
 # url_code: ''
 # url_dataset: ''
