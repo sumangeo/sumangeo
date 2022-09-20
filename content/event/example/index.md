@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Talked on Loggers and Continuous GW Monitoring 
 
-event: Wowchemy Conference
+event: Talked about Loggers and Continuous GW Monitoring 
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Dhaka
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -31,14 +31,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](#)'
   focal_point: Right
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/oporazito
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -60,14 +60,4 @@ projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+The text here
