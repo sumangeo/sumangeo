@@ -746,3 +746,5 @@ Note: Seeks to overcome the bias that comes from single informants, single metho
 **Validity**
 
 The extent to which an evaluation is logically and factually sound. Also used to describe the quality of data collection strategies and instruments to accurately measure what they purport to measure.
+
+\------------------ END --------------------------
