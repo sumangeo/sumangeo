@@ -300,27 +300,27 @@ Evaluation of an intervention after it has been completed.
 
 Note: An ex-post evaluation may be undertaken directly following or some time after the intervention. The intention is to identify the factors of success or failure, to assess the sustainability of results and impacts, and to draw conclusions that may inform other interventions.
 
-External evaluation
+**External evaluation**
 
 The evaluation of an intervention conducted by entities or individuals outside the funding and implementing organisations.
 
 Related term: independent evaluation
 
-Evaluation feedback
+**Evaluation feedback**
 
 The transmission of findings generated through the evaluation process to parties for whom it is relevant and useful so as to facilitate learning or accountability. This may involve the collection and dissemination of findings, conclusions, recommendations and lessons from experience to people affected by the intervention, as well as funders, implementers, decision makers and other stakeholders.
 
-Feminist evaluation
+**Feminist evaluation**
 
 A value-based approach to evaluation grounded in feminist theory and principles, which emphasises empowerment, social justice and participation, as well as understanding structural barriers that prevent equality, while aiming to contribute to transforming gendered power relationships.
 
 Related terms: gender analysis, gender-responsive evaluation, human rights-based evaluation, participatory evaluation
 
-Finding
+**Finding**
 
 A finding uses evidence from one or more evaluations to allow for a factual statement.
 
-Formative evaluation
+**Formative evaluation**
 
 Evaluation intended to improve performance or to inform planning of a subsequent phase, often conducted during the implementation phase of the intervention.
 
@@ -328,32 +328,32 @@ Note: Formative evaluations may also be conducted for other reasons such as comp
 
 Related terms: process evaluation, developmental evaluation
 
-Gender analysis
+**Gender analysis**
 
 An examination of gender dynamics, norms, beliefs and practices, including concepts of masculinity, femininity, and other gender identities, and power relationships among people of different genders.
 
 Note: For planning, monitoring and evaluation, gender analysis can be used to understand the intervention and its context, as well as for analysing the results of the intervention and for making evaluative judgements.
 
-Gender-responsive evaluation
+**Gender-responsive evaluation**
 
 An evaluation that assesses changes to gendered power relationships and results from an intervention, determining whether, and how, changes have occurred, and the effects of those changes. The approach to the evaluation ensures that the voices of people of different genders are incorporated throughout the process and in the methods used.
 
-Goal
+**Goal**
 
 The higher-order objective to which an intervention is intended to contribute. Note: An example is the 2030 Sustainable Development Goals (SDGs).
 Related term: objective
 
-Human rights-based evaluation
+**Human rights-based evaluation**
 
 An evaluation approach that explicitly identifies rights-holders and duty-bearers, and aims to hold duty- bearers to account for the realisation of human rights. The evaluation applies human rights principles to its approach, including through participation of rights-holders in the evaluation process itself, and explores issues of justice, equity and equality with a focus on marginalised and excluded groups.
 
-Hypotheses
+**Hypotheses**
 
 A set of (testable) ideas, beliefs and explanations about the relationship between an intervention and its effects, in a given context.
 
 Related terms: assumptions, theory of change, intervention logic
 
-Impact
+**Impact**
 
 The extent to which the intervention has generated or is expected to generate significant positive or negative, intended or unintended, higher-level effects.
 
@@ -361,7 +361,7 @@ Note: Impact addresses the ultimate significance and potentially transformative 
 
 Related terms: relevance, coherence, effectiveness, efficiency, sustainability
 
-Impacts
+**Impacts**
 
 The higher-level effects of an intervention’s outcomes. The ultimate effects or longer-term changes resulting from the intervention. Such impacts can include intended and unintended, positive or negative higher-level effects.
 
@@ -369,25 +369,25 @@ Note: Impacts is used here in the plural in reference to its meaning as a type o
 
 Related term: transformative effects
 
-Impact evaluation
+**Impact evaluation**
 
 An evaluation that assesses the degree to which the intervention meets its higher-level goals and identifies the causal effects of the intervention. Impact evaluations may use experimental, quasi-experimental and non-experimental approaches.
 
 Note: The term is also sometimes used to refer only to evaluations that use explicit counterfactual analysis to determine the effects (including outputs and outcomes) caused by an intervention.
 
-Impact management
+**Impact management**
 
 A management strategy focusing on performance and achievement of impacts. This management approach provides the framework, tools and guidance for strategic planning, risk management, performance monitoring, evaluation and knowledge management. It serves four complementary purposes: decision- making, learning, accountability and communication.
 
 Synonym: results-based management
 
-Independent evaluation
+**Independent evaluation**
 
 An evaluation that is free from undue political influence and organisational pressure, which has full access to information and autonomy to carry out investigations and reports findings and conclusions based on the collected evidence.
 
 Note: Independence is often supported by having external individuals or institutions carry out the evaluation. Independence can also be supported through funding arrangements, reporting lines and quality assurance processes. The credibility of an evaluation depends in part on how independently it has been carried out, including the extent to which it is free from the potential biases of those responsible for the design and implementation of the intervention.
 
-Indicator
+**Indicator**
 
 Quantitative or qualitative factor or variable of interest, related to the intervention and its results, or to the context in which an intervention takes place.
 
@@ -395,24 +395,26 @@ Note: An indicator is always approximate only (i.e. not an exact measure) and re
 
 Related terms: KPI, performance indicator
 
-Inputs
+**Inputs**
 
 The financial, human, material (in-kind), and institutional (including technological and information) resources used for the intervention.
 
 Note: It is important to include not only the resources of a funding or implementing organisation but the totality of resources of all involved organisations, the community and the local environment used for the intervention.
 
-Institutional development impact
+**Institutional development impact**
 
 The extent to which an intervention improves or weakens the ability of a country or region to make more efficient, equitable, and sustainable use of its human, financial, and natural resources, for example through:
-(a) better definition, stability, transparency, enforceability and predictability of institutional arrangements, or (b) better alignment of the mission and capacity of an organisation with its mandate, which derives from these institutional arrangements. Such impacts can include intended and unintended effects of an action.
+(a) better definition, stability, transparency, enforceability and predictability of institutional arrangements, or 
 
-Internal evaluation
+(b) better alignment of the mission and capacity of an organisation with its mandate, which derives from these institutional arrangements. Such impacts can include intended and unintended effects of an action.
+
+**Internal evaluation**
 
 Evaluation of an intervention conducted by a unit or individuals internal to the organisation, generally staff of the organisation who report to the management.
 
 Related term: self-evaluation
 
-Intervention
+**Intervention**
 
 The intentional activity or effort that is being evaluated (also called the evaluand or object of the monitoring or evaluation).
 
@@ -420,58 +422,58 @@ Note: Interventions may be international, national, local or through partnership
 
 Synonym: evaluand Related term: activity
 
-Intervention logic
+**Intervention logic**
 
 The way an intervention is expected to achieve its desired results, including underlying assumptions about the causality and interaction between the intervention, its inputs, activities, outputs, outcomes and impacts, in the context of the intervention.
 Related terms: logical framework, theory of change, assumptions
 
-Intervention purpose
+**Intervention purpose**
 
 The stated (or implied) objectives of the intervention. Related terms: intervention objective, goal
 
-Joint evaluation
+**Joint evaluation**
 
 An evaluation in which two or more institutions or partners participate.
 
 Note: There are various degrees of “jointness” depending on the extent to which individual partners are involved in designing the evaluation, co-operate in the evaluation process, merge their evaluation resources and combine their evaluation reporting. Joint evaluations can help overcome attribution problems in assessing the effectiveness of programmes and strategies. They can also be useful for evaluating coherence, looking at the complementarity of efforts supported by different partners, the quality of co-ordination, etc.
 
-Knowledge management
+**Knowledge management**
 
 The process or approach through which institutions capture, distribute, retain and effectively use knowledge to achieve their goals.
 
-Lessons learnt
+**Lessons learnt**
 
 Generalisation or extrapolation of findings and translation of analysis into relevant knowledge that supports decision making, improves performance and promotes the achievement of better results in other settings (beyond the intervention being evaluated). Frequently, lessons highlight strengths or weaknesses in the preparation, design, and implementation of interventions that affect performance and results. A lesson may be positive, neutral or negative.
 
-Limitations
+**Limitations**
 
 Any constraints in the process, methodology or data that affect the monitoring or evaluation, including potential implications for validity and reliability. Includes any obstruction of a free and open monitoring and evaluation process that may influence the findings, as well as discrepancies between the planned and actual products or process.
 
-Logical framework (Log frame)
+**Logical framework (Log frame)**
 
 Management tool used to improve the design of interventions, most often at the project level. It involves identifying strategic elements (inputs, activities, outputs, outcomes, impacts) and their causal relationships, as well as indicators, and the assumptions or risks that may influence success and failure. It facilitates planning, execution, monitoring and evaluation of an intervention.
 
 Related terms: results-based management, theory of change, intervention logic
 
-Meta-evaluation
+**Meta-evaluation**
 
 The term is used for evaluations designed to synthesise findings from a series of evaluations. It can also be used to denote the assessment of an evaluation to judge its quality or scrutinise the performance of the evaluators.
 
-Mid-term evaluation
+**Mid-term evaluation**
 
 Evaluation performed towards the middle of the period of implementation of the intervention. Related terms: formative evaluation, developmental evaluation.
 
-Monitoring
+**Monitoring**
 
 A continuing process that involves the systematic collection or collation of data (on specified indicators or other types of information). Provides the management and other stakeholders of an intervention with indications of the extent of implementation progress, achievement of intended results, occurrence of unintended results, use of allocated funds and other important intervention and context-related information.
 
 Related terms: performance monitoring, performance indicator, indicator
 
-Objective (Sustainable development objective)
+**Objective (Sustainable development objective)**
 
 Intended positive impacts contributing to physical, financial, institutional, social, well-being, environmental, or other benefits to a society, community, or group of people via one or more interventions.
 
-Related term: intervention objective
+**Related term: intervention objective**
 
 Intervention objective
 
@@ -479,7 +481,7 @@ The overall purpose of an intervention. This includes the intended physical, fin
 
 Related terms: intervention purpose, goal
 
-Outcomes
+**Outcomes**
 
 The short-term and medium-term effects of an intervention’s outputs.
 
@@ -487,17 +489,17 @@ Note: Outcomes are often changes in the institutional and behavioural capacities
 
 Related terms: results, outputs, impacts, effect.
 
-Outputs
+**Outputs**
 
 The products, capital goods and services that result from an intervention. Outputs may also include changes resulting from the intervention that contribute to the achievement of outcomes. Outputs include changes in knowledge, skills, or abilities produced by the activities.
 
 Note: Outputs are within the control of the implementing team and attributable to it. Related term: results
 
-Participatory monitoring and evaluation
+**Participatory monitoring and evaluation**
 
 An evaluation approach in which partners (including target groups) work together and are actively involved in monitoring and evaluation including designing plans, collecting and interpreting data, documenting and using findings, and formulating conclusions and recommendations.
 
-Partner
+**Partner**
 
 An individual or organisation that collaborates on an intervention to achieve mutually agreed objectives.
 
@@ -505,33 +507,33 @@ Note: The concept of partnership connotes shared goals, common responsibility fo
 
 business associations, private entities, and multi-lateral organisations involved in funding, implementing or overseeing the intervention.
 
-Performance
+**Performance**
 
 The degree to which an intervention or partner operates according to specific criteria, standards and guidelines, or achieves results in accordance with stated goals or plans.
 
-Performance indicator
+**Performance indicator**
 
 Quantitative or qualitative factor or variable that provides a simple, verifiable, and reliable means to measure the performance of an actor, generally in terms of the process of implementation.
 
 Related terms: KPI, indicator
 
-Key Performance Indicator (KPI)
+**Key Performance Indicator (KPI)**
 
 A subset of indicators that are considered to be the most important to achieving goals, and used to monitor progress, in an ongoing way.
 
 Related terms: indicator, performance
 
-Performance measurement
+**Performance measurement**
 
 A system for assessing performance of interventions against stated goals. Related terms: performance monitoring, performance indicator, indicator.
 
-Performance monitoring
+**Performance monitoring**
 
 A continuous process of collecting and analysing data to compare how well an intervention is being implemented against expected results.
 
 Related term: performance measurement
 
-Performance measurement framework
+**Performance measurement framework**
 
 The performance measurement framework is a results-based management tool used to systematically plan the collection of relevant data over the lifetime of the project, in order to assess and demonstrate progress made in achieving expected results. The performance measurement framework is the “skeleton” of the monitoring plan: it documents the major elements of the monitoring system in order to ensure regular collection of actual data on the performance measurement framework indicators. The performance measurement framework contains all of the indicators used to measures progress on the achievement of the project’s results.
 
@@ -539,19 +541,19 @@ In addition, it specifies who is responsible for collecting data on the indicato
 
 Related term: results framework
 
-Population
+**Population**
 
 The total universe of persons or institutions in the context in which the intervention takes place; all potential targets of the intervention.
 
 Note: The target group of an intervention is a subset of the population Related terms: target group, people who benefit, stakeholders
 
-Process evaluation
+**Process evaluation**
 
 An evaluation of the internal dynamics of implementing organisations, their policy instruments, their service delivery mechanisms, their management practices, and the linkages among these.
 
 Related term: formative evaluation
 
-Programme evaluation
+**Programme evaluation**
 
 Evaluation of a set of interventions, combined to attain specific global, regional, country, or sector development objectives.
 
@@ -559,19 +561,19 @@ Note: a development programme is a time-bound intervention involving multiple ac
 
 Related term: country programme evaluation.
 
-Project evaluation
+**Project evaluation**
 
 Evaluation of an individual intervention designed to achieve specific objectives within specified resources and implementation schedules, often within the framework of a broader programme, examining its relevance, coherence, effectiveness, efficiency, impact and sustainability.
 
 Note: Cost-benefit analysis is one instrument often used in project evaluation for projects with measurable benefits. When benefits cannot be quantified, cost effectiveness is a suitable approach.
 
-Quality assurance
+**Quality assurance**
 
 Any activity or process that is used to assess and improve the merit or the worth of an intervention or its compliance with given standards and requirements.
 
 Note: Examples of quality assurance activities include appraisal, results-based management, reviews, and evaluations. Quality assurance may also refer to the assessment of the quality of a portfolio and its overall effectiveness.
 
-Quality at entry
+**Quality at entry**
 
 The strength of the intervention implementation and results, at the time it is designed or before it starts, in terms of its potential relevance, effectiveness, coherence, efficiency, impact and sustainability.
 
@@ -579,47 +581,47 @@ Note: Quality at entry may also be a factor of the extent to which the intervent
 
 Related terms: evaluability, ex-ante evaluation
 
-Randomised Control Trial (RCT)
+**Randomised Control Trial (RCT)**
 
 A type of evaluation that randomly assigns access to the intervention, in order to control influencing variables and limit bias, generating internally valid estimates of results.
 
-Reach
+**Reach**
 
 The people affected by an intervention, as a subset of the total population. Related terms: people who benefit, target group, population
 
-Real-time evaluation (real-time learning)
+**Real-time evaluation (real-time learning)**
 
 A process that provides immediate (independent) evaluative evidence, insights and feedback to inform decision making, learning and implementation while the intervention is underway.
 
 Related term: monitoring
 
-Recommendations
+**Recommendations**
 
 Proposals aimed at enhancing the relevance, coherence, effectiveness, efficiency, impact or sustainability of the intervention; at redesigning the objectives; or reallocating resources. Recommendations should be based on findings and conclusions.
 
-Relevance
+**Relevance**
 
 The extent to which the intervention objectives and design respond to beneficiaries, global, country, and partner/institution needs, policies, and priorities, and continue to do so if circumstances change.
 
 Note: “Respond to” means that the objectives and design of the intervention are sensitive to the economic, environmental, equity, social, political economy, and capacity conditions in which it takes place. “Partner/institution” includes government (national, regional, local), civil society organisations, private entities and international bodies involved in funding, implementing and/or overseeing the intervention. Relevance assessment involves looking at differences and trade-offs between different priorities or needs. It requires analysing any changes in the context to assess the extent to which the intervention can be (or has been) adapted to remain relevant.
 
-Reliability
+**Reliability**
 
 Consistency or dependability of data and evaluation judgements, with reference to the quality of the instruments, procedures and analyses used to collect and interpret results and evaluation data.
 
 Note: Evaluation and results information is reliable when repeated observations using similar instruments under similar conditions produce similar results.
 
-Results
+**Results**
 
 The outputs, outcomes or impacts (intended or unintended, positive or negative) of an intervention. Related terms: outputs, outcomes, effects, impacts
 
-Results chain
+**Results chain**
 
 The causal sequence of an intervention that stipulates the different stages leading to the achievement of the desired objectives. In general, the results chain starts with inputs, which then link to activities and outputs, and culminate in outcomes, and impacts. In some cases, reach is included as part of the results chain.
 
 Related terms: inputs, activities, outputs, outcomes, impact, results framework, theory of change, performance measurement framework
 
-Results framework
+**Results framework**
 
 Explicit articulation (typically, in a graphical or tabular manner) of how a strategy or intervention will achieve the objective(s), including causal relationships and underlying assumptions and risks.
 
@@ -627,19 +629,19 @@ Note: Generally, includes indicators (with baseline, data source, means of verif
 
 Related terms: results chain, logical framework, theory of change, intervention logic.
 
-Results information
+**Results information**
 
 Qualitative or quantitative data about the outputs, outcomes or impacts (intended or unintended, positive or negative) of an intervention.
 
 Related terms: indicator; result, performance indicator
 
-Results-Based Management (RBM)
+**Results-Based Management (RBM)**
 
 A management strategy focusing on performance and achievement of outputs, outcomes and impacts. This management approach provides the framework, tools and guidance for strategic planning, risk management, performance monitoring, evaluation and knowledge management. It serves four complementary purposes: decision-making, learning, accountability and communication.
 
 Note: RBM is often a participatory and team-based management approach designed to improve programme delivery and strengthen management effectiveness, efficiency, learning and accountability.
 
-Review
+**Review**
 
 An assessment of the performance of an intervention, periodically or on an ad hoc basis.
 
@@ -647,34 +649,34 @@ Note: Sometimes the terms “review” and “evaluation” are used as synonyms
 
 Related term: evaluation
 
-Risk analysis
+**Risk analysis**
 
 An analysis or an assessment of factors that affect or are likely to affect the achievement of an intervention’s objectives. A detailed examination of the potential unwanted and negative consequences to human life, health, property, or the environment posed by an intervention; a systematic process to provide information regarding such undesirable consequences; the process of quantification of the probabilities and expected impacts for identified risks.
 
-Rubric
+**Rubric**
 
 A framework that sets out criteria and standards for different levels of performance and describes what performance would look like at each level, as a way of answering evaluative questions. It also includes guidance on how to synthesise evidence to form an overall evaluative conclusion.
 
-Sample
+**Sample**
 
 A subset of a given population which is chosen in such a way as to allow extrapolation of findings to the population.
 Note: Extrapolation can be done statistically for random sampling and analytically for purposeful sampling.
 Related terms: counter-factual, population
 
-Scope of the evaluation
+**Scope of the evaluation**
 
 The time period, funds, geographical area, target group(s), organisational set-up, implementation arrangements, policy and institutional context, and other dimensions covered by the evaluation.
 Note: The scope of the evaluation should be delineated along at least four levels: operational (all or part of the areas of intervention, one or more related policies or interventions), institutional (all or part of the
 
 authorities), temporal (period taken into account) and geographic (one or more territories or parts of territories, a specific, region, city, place, etc.).
 
-Sector programme evaluation
+**Sector programme evaluation**
 
 Evaluation of a cluster of interventions within one country or across countries, all of which contribute to the achievement of a specific goal.
 
 Note: a sector includes development activities commonly grouped together for the purpose of public action such as health, education, agriculture, transport, etc.
 
-Self-evaluation
+**Self-evaluation**
 
 An evaluation of an intervention by those who are responsible for its design and delivery. Related term: internal evaluation
 
@@ -682,30 +684,30 @@ Social impact evaluation (social impact assessment)
 
 An evaluation that determines (ex-ante or ex-post) the likely or actual social effects of an intervention. Involves the intended and unintended social consequences, both positive and negative, of interventions and any social change processes affected by the intervention.
 
-Stakeholders
+**Stakeholders**
 
 Agencies, organisations, groups or individuals who have a direct or indirect interest in the intervention or its monitoring and evaluation.
 
-Strategic evaluation
+**Strategic evaluation**
 
 An evaluation that examines how priorities are formulated, looking at overall systems and trends affecting performance and results.
 
-Summative evaluation
+**Summative evaluation**
 
 A study conducted at the end of an intervention (or a phase of that intervention) to determine the extent to which anticipated outcomes were produced. Summative evaluation is intended to provide information about the worth or significance of the intervention.
 
-Sustainability
+**Sustainability**
 
 The extent to which the net benefits of the intervention continue, or are likely to continue.
 
 Note: Includes an examination of the financial, economic, social, environmental, and institutional capacities of the systems needed to sustain net benefits over time. Involves analyses of resilience, risks and potential trade-offs. Depending on the timing of the evaluation, this may involve analysing the actual flow of net benefits or estimating the likelihood of net benefits continuing over the medium and long term.
 
-Target
+**Target**
 
 An objective, usually quantitative, defined as a value on an established indicator. The target is generally set at the beginning of an intervention and is expected to be achieved by a specific point in time with available resources.
 Related term: performance indicator
 
-Target group
+**Target group**
 
 The specific individuals, communities or organisations that the intervention is intended to reach.
 
@@ -713,34 +715,34 @@ Note: Can also be defined as the recipients of the goods and services produced b
 
 Related term: reach
 
-Terms of reference
+**Terms of reference**
 
 Written document presenting the purpose and scope of the evaluation, the methods to be used, the standard against which performance is to be assessed or analyses are to be conducted, the resources and time allocated, and reporting requirements.
 
 Note: Two alternative expressions sometimes used are “scope of work” and “evaluation mandate”.
 
-Thematic evaluation
+**Thematic evaluation**
 
 Evaluation of a selection of interventions, all of which address a specific sustainable development priority or topic, that cuts across countries, regions, and sectors.
 
 Note: Often thematic evaluations will examine a strategic approach or priority topic across a variety of interventions. An example would be evaluating the extent to which the rights of people with disabilities were advanced across a portfolio of interventions in education, health and employment.
 
-Theory of change
+**Theory of change**
 
 The way the intervention is expected to achieve or achieves change. It represents how people understand change to occur in a given context, including explicit (or implicit) assumptions about the causal links between inputs, activities and results. Often also includes evidence and risks for these elements of the results chain.
 
 Related terms: intervention logic, logical framework, results chain, assumptions
 
-Transformative effects
+**Transformative effects**
 
 Holistic and enduring changes in systems or norms. Related term: impacts
 
-Triangulation
+**Triangulation**
 
 The use of three or more theories, sources or types of information, or types of analysis to verify and substantiate an assessment.
 
 Note: Seeks to overcome the bias that comes from single informants, single methods, single observers or single theory studies by combining multiple data sources, methods, analyses or theories, monitoring and evaluation.
 
-Validity
+**Validity**
 
 The extent to which an evaluation is logically and factually sound. Also used to describe the quality of data collection strategies and instruments to accurately measure what they purport to measure.
