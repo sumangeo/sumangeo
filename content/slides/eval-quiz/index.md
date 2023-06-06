@@ -2,6 +2,8 @@
 title: Eval Quiz
 date: 2023-06-06T02:40:21.766Z
 draft: false
+tags:
+  - slides
 slides:
   theme: black
 image:
