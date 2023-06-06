@@ -11,21 +11,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Q﻿uiz 1
+
+```
 Please select the most appropriate term for the following definition:
+Use evidence from one or more evaluations to allow for factual statements
 
-*Use evidence from one or more evaluations to allow for factual statements*
-
-```
-* Findings
-* Recommendations
-* Performance
-* Outcomes
-* Effects
-* Lessons learned
-* Impacts
-* Results 
-* Conclusions
-```
+Select one: 
 
 * Findings
 * Recommendations
@@ -36,6 +28,7 @@ Please select the most appropriate term for the following definition:
 * Impacts
 * Results 
 * Conclusions
+```
 
 - - -
 
