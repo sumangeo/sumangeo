@@ -27,8 +27,55 @@ Select one:
 * Results 
 * Conclusions
 
-\---
+- - -
 
 The correct answer is: Findings
+
+- - -
+
+Please select the most appropriate term for the following definition:
+
+*Proposals aimed at: enhancing the effectiveness, quality, or efficiency of an intervention; redesigning the objectives; and/or the reallocation of resources.*
+
+Select one:
+
+* Findings
+* Recommendations
+* Performance
+* Outcomes
+* Effects
+* Lessons learned
+* Impacts
+* Results 
+* Conclusions
+
+- - -
+
+The correct answer is: Recommendations
+
+- - -
+
+<!--StartFragment-->
+
+Please select the most appropriate term for the following definition (without looking at the OECD-DAC Glossary):\
+*Should be linked to conclusions.*
+
+Select one:
+
+* Findings
+* Recommendations
+* Performance
+* Outcomes
+* Effects
+* Lessons learned
+* Impacts
+* Results 
+* Conclusions
+
+- - -
+
+The correct answer is: Recommendations
+
+- - -
 
 <!--EndFragment-->
