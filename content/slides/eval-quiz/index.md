@@ -11,11 +11,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<!--StartFragment-->
+##### Please select the most appropriate term for the following definition:
 
-Please select the most appropriate term for the following definition:
-
-*Use evidence from one or more evaluations to allow for factual statements*
+##### *Use evidence from one or more evaluations to allow for factual statements*
 
 Select one:
 
@@ -53,7 +51,7 @@ Select one:
 
 - - -
 
-The correct answer is: Recommendations
+The correct answer is: **Recommendations**
 
 - - -
 
@@ -79,5 +77,3 @@ Select one:
 The correct answer is: Recommendations
 
 - - -
-
-<!--EndFragment-->
