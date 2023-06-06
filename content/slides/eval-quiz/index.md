@@ -11,11 +11,21 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-##### Please select the most appropriate term for the following definition:
+Please select the most appropriate term for the following definition:
 
-##### *Use evidence from one or more evaluations to allow for factual statements*
+*Use evidence from one or more evaluations to allow for factual statements*
 
-Select one:
+```
+* Findings
+* Recommendations
+* Performance
+* Outcomes
+* Effects
+* Lessons learned
+* Impacts
+* Results 
+* Conclusions
+```
 
 * Findings
 * Recommendations
