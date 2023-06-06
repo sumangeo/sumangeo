@@ -16,7 +16,7 @@ summary: "This Glossary provides conceptual clarity on common terms used in
   English-only prepublication version provides the full English text for
   reference. It will be replaced by the formal trilingual publication following
   translation and formatting."
-draft: true
+draft: false
 featured: false
 image:
   filename: ""
@@ -27,11 +27,9 @@ image:
 
 This Glossary provides conceptual clarity to support thoughtful approaches to results-based management, monitoring and evaluation, which in turn support better progress on sustainable development through learning and accountability. This glossary is useful for training and in practical work on sustainable development in the public and private sectors – including during project or policy design, monitoring, programme implementation and management, and various types of evaluation.   The focus of the Glossary is on specific terms as used for results monitoring, management, data collection and analysis, and evaluation. We do not define related or general concepts – such as human rights, equity, or development – as these are defined elsewhere and used here in standard, widely accepted ways. Notes define and explain key concepts (and form part of the definitions). Cross-references point the reader to related terms and synonyms.  This second edition of the Glossary reflects learnings and context changes over the past 20 years. It incorporates new thinking from the OECD/DAC Results Community, which did not exist at the time of the first edition in 2002. It includes updates to definitions as well as new terms now in common use. Several definitions have been adjusted to reflect their current use by a range of actors in diverse contexts of work on sustainable development, including within communities. This edition also reflects the extensive work undertaken in 2017-2019 by the OECD Development Assistance Committee’s (DAC) Network on Development Evaluation to refine the definitions of the evaluation criteria originally outlined here in 2002. The adapted criteria definitions approved in 2019 are included in this updated edition.   This process has been guided by the highest considerations of clarity and conciseness. It was conducted in a spirit of compromise in terms of the willingness of partners not to impose their own specific vocabulary on others.   The original Glossary, published in 2002 was the fruit of almost two years of elaboration, based on an initial collection of terms used by development agencies. The selection of terms and their definitions were carefully discussed and analysed, and benefited from inputs from many sources and advice from the academic evaluation community. Likewise, this second edition involved extensive consultation and input from experts and partners across the results and evaluation communities.
 
-
-
 ### 2 Terms
 
-Accountability
+**Accountability**
 
 Accountability is a state of or a process for holding someone responsible to someone else for something. It is the obligation to demonstrate that work has been conducted in compliance with agreed rules and standards, or to report fairly and accurately on results, based on mandates and plans. This may require a careful, even legally defensible, demonstration that the work is consistent with the terms of a contract.
 
@@ -41,42 +39,42 @@ For evaluators, it connotes the responsibility to provide accurate, fair and cre
 
 Related terms: community accountability, mutual accountability
 
-(Community) Accountability
+**(Community) Accountability**
 
 Holding intervention funders and implementers accountable to the people and community affected by the intervention for the process and results of that intervention.
 
-(Mutual) Accountability
+**(Mutual) Accountability**
 
 Shared responsibility for the intervention implementation and its results. The obligation of two or more partners to demonstrate compliance with mutually agreed rules and standards or to report fairly and accurately on the use of resources and achievement of results for mandated roles or plans. Involves transparent reporting on progress in sustainable development that has been achieved collectively (through contributions from multiple partners) and implications for affected people and other stakeholders.
 
-Activity
+**Activity**
 
 Actions taken or work performed through which inputs, such as funds, technical assistance and other types of resources, are mobilised to produce specific outputs.
 
 Synonym: intervention Related term: evaluand
 
-Adaptive management
+**Adaptive management**
 
 A structured management strategy that involves an ongoing process of working collaboratively and flexibly to learn, make decisions, test assumptions, and adjust actions on the basis of new information, lessons and changes in context.
 
 Note: Often used to take action under conditions of ongoing uncertainty based on the best available evidence. Involves systematically monitoring and evaluating results and adjusting decisions as more information is learned.
 
-Additionality
+**Additionality**
 
 The characteristic of an intervention, where its (financial or non-financial) inputs, activities or results are considered as additional when compared to what would have happened otherwise. Additional means larger in scale, at a higher quality, taking place more quickly, at a different location, reaching different beneficiaries, or taking place at all.
 
 Note: In development co-operation many institutions distinguish between financial additionality (in reference to financing provided that would not be supplied by the market), and development additionality (referring to results).
 
-Administrative data
+**Administrative data**
 
 Information collected by an intervention for purposes of administration, record keeping and tracking implementation, which can also be used for monitoring and evaluation.
 Note: Administrative data typically include financial and operational data at activity level. It is common for basic demographic information to be derived from administrative data. Examples include enrolment records, tax records, insurance claims, feedback forms, and patient records.
 
-Analytical tool
+**Analytical tool**
 
 Method used to process and interpret data collected or collated.
 
-Appraisal
+**Appraisal**
 
 An overall assessment of the relevance, feasibility and potential sustainability of an intervention prior to a decision regarding funding or implementation.
 
@@ -84,7 +82,9 @@ Note: In development agencies, banks, and other financial institutions, the purp
 
 Related term: ex-ante evaluation
 
-Assumptions
+
+
+**Assumptions**
 
 A set of (untested) factors and beliefs that form the basis of the intervention logic, and factors or risks, which affect its relevance, progress or success. Assumptions are the conditions necessary for the cause- and-effect relationships between the different levels of results (i.e. to move from activities to outputs, outputs to outcomes, and outcomes to impacts).
 
@@ -92,33 +92,33 @@ Note: For design, monitoring and evaluation, assumptions can also be understood 
 
 Related term: hypotheses
 
-Attribution
+**Attribution**
 
 The ascription of a causal link between observed (or expected to be observed) changes and a specific intervention.
 
 Note: Attribution refers to that which is to be credited for the observed changes or results achieved. This definition does not require that changes are produced solely by the intervention being evaluated, rather it represents the extent to which observed effects can be attributed to a specific intervention or to one or more partners, taking account of other interventions, confounding factors (other influences), or external shocks.
 
-Audit
+**Audit**
 
 An independent, systematic, objective quality assurance assessment designed to document and improve the effectiveness of risk management, control and governance processes.
 
 Note: A distinction is made between regularity (financial) auditing, which focuses on compliance with applicable statutes and regulations; and performance auditing, which is concerned with relevance, efficiency and effectiveness. Internal auditing provides an assessment of internal controls undertaken by a unit reporting to management while external auditing is conducted by an independent entity.
 
-Baseline (reference value)
+**Baseline (reference value)**
 
 The conditions existing prior to an intervention or at the beginning of the period, against which changes can be measured, monitored and evaluated.
 
-Baseline study
+**Baseline study**
 
 An analysis describing the situation prior to an intervention, against which changes can be assessed or comparisons made.
 
-Benchmark
+**Benchmark**
 
 A reference point or standard against which changes, performance or achievements can be assessed.
 
 Note: A benchmark is established based on recent performance of comparable organisations, or what can be reasonably inferred to have been achieved under a similar set of circumstances.
 
-Beneficiaries (People who benefit)
+**Beneficiaries (People who benefit)**
 
 The individuals, groups, or organisations, whether targeted or not, that benefit, directly or indirectly, from the intervention.
 
@@ -126,26 +126,26 @@ Note: Other terms used, depending on the context, include rights holders, duty b
 
 Related terms: reach, target group
 
-Causality
+**Causality**
 
 The relationship between one event (the cause) and another event (the effect) which is the direct consequence of the first.
 
-Cluster evaluation
+**Cluster evaluation**
 
 An evaluation of a set of related activities or interventions, either similar interventions in different locations or a cluster of complementary components of an overall initiative.
 
 Related terms: thematic evaluation, sector programme evaluation
 
-Coherence
+**Coherence**
 
 The compatibility of the intervention with other interventions in a country, sector or institution.
 
 Note: The extent to which other interventions (particularly policies) support or undermine the intervention, and vice versa. Includes internal coherence and external coherence:
 
-Internal coherence
+**Internal coherence**
 The synergies and interlinkages between the intervention and other interventions carried out by the same institution/government, as well as the consistency of the intervention with the relevant international norms and standards to which that institution/government adheres.
 
-External coherence
+**External coherence**
 The consistency of the intervention with other actors’ interventions in the same context. This includes complementarity, harmonisation and co-ordination with others, and the extent to which the intervention is adding value while avoiding duplication of effort.
 
 Related term: policy coherence for sustainable development
@@ -156,71 +156,71 @@ The compatibility of a policy with other policies in a country, sector or instit
 
 Related term: coherence
 
-Commissioner
+**Commissioner**
 
 The person or entity responsible for requesting or ordering an evaluation.
 
-Conclusions
+**Conclusions**
 
 A summary of the factors leading to the success or failure of the evaluated intervention. Special attention is paid to the intended and unintended effects, results and impacts, and more generally to any other strength or weakness. A conclusion draws on data collection and analyses undertaken, through a transparent chain of arguments.
 
-Context
+**Context**
 
 The setting in which an intervention or an evaluation takes place and which is likely to influence performance and results. These include capacities and social, economic, political, environmental, conflict, inclusiveness, cultural, and institutional conditions.
 
 Contribution – \[definition under discussion]
 
-Contribution analysis
+**Contribution analysis**
 
 An approach for determining if – and how – an intervention contributed to an observed result, based on verifying the underlying theory of change.
 
-Control group
+**Control group**
 
 The sample or group that does not receive the intervention and against which other groups or samples (that do receive the intervention) are compared in order to assess performance and results.
 
-Counterfactual
+**Counterfactual**
 
 The situation or condition that hypothetically may prevail for individuals, organisations, or groups were there no intervention (the status quo).
 
 Note: This is used for counterfactual evaluation approaches. It can be estimated by creating a control group, a comparison group or a hypothetical counterfactual.
 
-Country programme evaluation
+**Country programme evaluation**
 
 Evaluation of one or more institution’s or partner’s portfolio of interventions in a specific country, including the strategy behind them in a specific period of time.
 
-Culture of results and learning; Culture of evaluation
+**Culture of results and learning; Culture of evaluation**
 
 The collective formal and informal norms, beliefs and ways of working in an institution that support and encourage staff and partners to actively seek out, learn from and act on credible results information. A culture that supports and encourages people to critically think about the design, implementation and effects of interventions, including relevance, coherence, efficiency, effectiveness, impact and sustainability. This includes understanding causal relationships, testing assumptions and considering evidence generated internally or by external actors on what works or not, why and for whom, and adjusting actions accordingly.
 
-Data collection tool
+**Data collection tool**
 
 Methods used to identify information sources and collect information. Examples include informal and formal surveys, direct and participatory observations, community interviews, focus groups, expert opinions, case studies, and literature search.
 
-Democratic evaluation
+**Democratic evaluation**
 
 An approach to evaluation that aims to support a just and democratic society and serve the whole community.
 
 Note: Democratic evaluation allows people to be informed of what others are doing and sees the evaluator as someone who brokers the process. It generally uses inclusive practices that foster participation and collaboration to understand progress towards a just and democratic society. Also used as a means of ensuring public accountability and transparency.
 
-Developmental evaluation
+**Developmental evaluation**
 
 An iterative, embedded approach to evaluation, designed to support learning particularly in complex or uncertain environments. It involves providing real-time, or near real-time, (independent) feedback to intervention staff, thus facilitating ongoing learning and enabling improvements during implementation.
 
 Related terms: real-time evaluation, adaptive management, ex-ante evaluation 
 
-Economic
+**Economic**
 
 The conversion of inputs (funds, expertise, natural resources, time, etc.) into outputs, outcomes and impacts in the most cost-effective way possible, as compared to feasible alternatives in the context.
 
 Related term: efficiency
 
-Economical
+**Economical**
 
 Absence of waste for a given output. An activity is economical when the costs of the scarce resources used approximate the minimum needed to achieve the planned objectives.
 
 Related term: efficiency
 
-Economic evaluation
+**Economic evaluation**
 
 An analysis that quantifies whether the economic benefits of a project (achieved or expected to be achieved) exceed its economic costs. A systematic analysis that assesses the resources used in relation to the results achieved, providing an assessment of cost effectiveness.
 
@@ -228,11 +228,11 @@ Note: Different types of economic analysis include cost-benefit, value for money
 
 Related term: efficiency
 
-Effects
+**Effects**
 
 Intended or unintended changes due directly or indirectly to an intervention. Related terms: outputs, outcomes, impacts, results
 
-Effectiveness
+**Effectiveness**
 
 The extent to which the intervention achieved, or is expected to achieve, its objectives, and its results, including any differential results across groups.
 
@@ -240,7 +240,7 @@ Note: Analysis of effectiveness involves taking account of the relative importan
 
 Related terms: efficiency, coherence, relevance, impact, sustainability
 
-Efficiency
+**Efficiency**
 
 The extent to which the intervention delivers, or is likely to deliver, results in an economic and timely way.
 
@@ -248,23 +248,23 @@ Note: “Economic” is the conversion of inputs (funds, expertise, natural reso
 
 Related terms: effectiveness, coherence, relevance, impact, sustainability
 
-End line
+**End line**
 
 The conditions existing after an intervention or end of the period, against which changes from the baseline can be measured, monitored and evaluated.
 
 Related term: baseline
 
-Evaluability
+**Evaluability**
 
 Extent to which an intervention can be evaluated in a reliable and credible fashion.
 
 Note: Some approaches to evaluability assessment involve early review of a proposed intervention in order to ascertain whether its objectives are adequately defined and its results are verifiable. In other instances, particularly with complex interventions, high uncertainty or in unstable contexts, evaluability assessment might instead identify a need for an evaluation approach that supports adaptive management (for example, developmental evaluation).
 
-Evaluand
+**Evaluand**
 
 The institution or intervention that is being evaluated; the object of the evaluation.
 
-Evaluation
+**Evaluation**
 
 The systematic and objective assessment of a planned, ongoing or completed intervention, its design, implementation and results. The aim is to determine relevance, coherence, effectiveness, efficiency, impact
 
@@ -274,27 +274,27 @@ An evaluation should provide information that is credible and useful, enabling t
 
 Note: Evaluation in some instances involves the definition of appropriate standards and criteria, the examination of performance against those standards, an assessment of actual and expected results and the identification of relevant lessons and recommendations. Though evaluation deals with the assessment of relevance, coherence, effectiveness, efficiency, impact and sustainability, not all evaluations will cover all of these criteria to the same degree or at all.
 
-Evaluation purpose
+**Evaluation purpose**
 
 The objectives of the evaluation including why the evaluation is being undertaken at this particular point in time, for whom and how the evaluation will be used for learning and accountability.
 
-Evidence
+**Evidence**
 
 Facts or information that support the validity and truth of a conclusion, assumption or assertion.
 
-Evidence-based (policy, practice)
+**Evidence-based (policy, practice)**
 
 Reliable and credible evidence determines the design, adaptation and implementation of a policy or practice.
 
-Ex-ante evaluation
+**Ex-ante evaluation**
 
 An evaluation that is performed before the implementation of an intervention. Related terms: appraisal, quality at entry, evaluability
 
-Ex-durante evaluation
+**Ex-durante evaluation**
 
 An evaluation that is performed during the implementation of an intervention (while it is ongoing).
 
-Ex-post evaluation
+**Ex-post evaluation**
 
 Evaluation of an intervention after it has been completed.
 
