@@ -1,5 +1,5 @@
 ---
-title: "'Best practice' and 'lessons learned'"
+title: "'Best practice' & 'lessons learned'"
 date: 2023-06-06T02:25:17.551Z
 draft: false
 featured: false
