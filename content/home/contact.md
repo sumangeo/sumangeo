@@ -21,7 +21,7 @@ content:
     formspree:
       id: xaykelvr
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
 # Contact details (edit or remove options as required)
   contact_links:
@@ -33,6 +33,14 @@ content:
       icon_pack: fab
       name: Facebook
       link: 'https://facebook.com/SumanGeo'
+    - icon: skype
+      icon_pack: fab
+      name: Skype Me
+      link: 'skype:Suman.rbd?call'
+    - icon: globe
+      icon_pack: fab
+      name: PGDICT43
+      link: 'https://pgdict43.netlify.app'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
