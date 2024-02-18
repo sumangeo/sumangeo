@@ -7,6 +7,8 @@ draft: false
 featured: false
 tags:
   - SQL
+categories:
+  - SQL
 image:
   filename: sql-basics-cheat-sheet-a4-page-1.png
   focal_point: Smart
