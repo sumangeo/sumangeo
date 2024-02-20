@@ -1,6 +1,6 @@
 ---
-title: SQL Queries
-subtitle: SQL Statements
+title: "SQL Queries"
+subtitle: "SQL Statements"
 date: 2024-02-18T17:15:54.173Z
 summary: S﻿QL Statements
 draft: false
@@ -10,10 +10,11 @@ tags:
 categories:
   - SQL
 image:
-  filename: sql-basics-cheat-sheet-a4-page-1.png
+  filename: "sql-basics-cheat-sheet-a4-page-1.png"
   focal_point: Smart
   preview_only: false
 ---
+
 ## *SQL Basics Cheat Sheet* 1
 
 ![## *SQL Basics Cheat Sheet*](sql-basics-cheat-sheet-a4-page-1.png "## *SQL Basics Cheat Sheet*")
