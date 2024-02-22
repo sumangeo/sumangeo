@@ -38,7 +38,7 @@ content:
       name: Whatsapp
       link: 'https://wa.me/8801521500081/?text=Hi'
     - icon: globe
-      icon_pack: fab
+      icon_pack: fas
       name: EGIT Solutions
       link: 'https://sites.google.com/view/egitsolutions'      
     - icon: globe
