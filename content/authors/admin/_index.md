@@ -48,10 +48,15 @@ education:
     - course: Faecal Sludge and Water Management in Rural Areas
       institution: Centre for Science and Environment (CSE), New Delhi, India
       year: 2021
-    - course: Multidisciplinary Application of Geographic Information System (GIS)
-      institution: Department of Urban and Regional Planning, Rajshahi University of
-        Engineering and Technology (RUET)
+    - course: Geographic Information System (GIS)
+      institution: Department of Urban and Regional Planning, Rajshahi University of Engineering and Technology (RUET)
       year: 2015
+    - course: Surveying
+      institution: Dhaka Polytechnic Institute, BTEB
+      year: 2022    
+    - course: Post Graduate Diploma (PGD) in ICT (PGDICT)
+      institution: Bangladesh Korea Institute of Information and Communication Technology (BKIICT), Bangladesh Computer Council (BCC)
+      year: 2023          
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
