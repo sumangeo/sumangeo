@@ -2,7 +2,7 @@
 summary: ""
 draft: false
 author: admin
-slug: md-post-suman
+slug: ai_prompt_engineering
 title: AI Prompt Engineering
 date: 2023-05-10T19:05:07.172Z
 tags:
@@ -10,11 +10,11 @@ tags:
 categories:
   - AI
 ---
-### 1﻿. [Start with an instruction](https://platform.openai.com/docs/quickstart/start-with-an-instruction)
+### 1. [Start with an instruction](https://platform.openai.com/docs/quickstart/start-with-an-instruction)
 
 Try making your instruction more specific. e.g: Suggest one name for a black horse.
 
-### 2﻿. [Add some examples](https://platform.openai.com/docs/quickstart/add-some-examples)
+### 2. [Add some examples](https://platform.openai.com/docs/quickstart/add-some-examples)
 
 It’s helpful to both show and tell the model what you want. Adding examples to your prompt can help communicate patterns or nuances. Try submitting this prompt which includes a couple examples.
 
