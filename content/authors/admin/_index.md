@@ -18,18 +18,14 @@ bio: Experienced and skilled in data acquisition, processing, Monitoring and Eva
 
 # Interests to show in About widget
 interests:
-  - Hydrogeology
-  - Monitoring & Evaluation
-  - Data Science
-  - GIS
-  - Remote Sensing
+  - Hydrogeology, Water Management
+  - Monitoring & Evaluation, MEAL, MEL
+  - Data Science, Data Analysis
+  - GIS, Remote Sensing, Mapping
   - Survey, Data Collection
-  - Data Analysis
   - Data Visualization
-  - Mapping
-  - Environment
-  - Climate Change
-  - Water Management
+  - Environment, Climate Change
+
 
 # Education to show in About widget
 education:
