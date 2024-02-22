@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
-subtitle:
+subtitle: 'Training & Short Courses I've accomplished'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -27,9 +27,9 @@ item:
     date_end: ''
     date_start: '2021-01-25'
     description: ''
-    organization: Coursera
+    organization: Unicef
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Evaluation
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
