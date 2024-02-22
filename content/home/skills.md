@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: '2 years of experience using R'
-    icon: r-project
+    icon: laptop-code
     icon_pack: fab
     name: R
   - description: '3 years of experience using Python'
