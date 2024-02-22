@@ -16,22 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: '2 years of experience using R'
+  - description: '5+ years of experience in web application development with strong proficiency in HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL.'
     icon: laptop-code
     icon_pack: fas
-    name: R
-  - description: '3 years of experience using Python'
+    name: Web Application
+  - description: '5+ years of experience using Python'
     icon: python
     icon_pack: fab
     name: Python
-  - description: 'I have 7 years of experience using ArcGIS'
+  - description: '8+ years of experience using ArcGIS'
     icon: globe
     icon_pack: fas
-    name: ArcGIS
-  - description: 'I have 7 years of experience using AutoCAD'
+    name: ArcGIS, Pro
+  - description: '8+ years of experience of Data Solution, Analysis'
     icon: object-group
     icon_pack: fas
-    name: AutoCAD
+    name: Data Science
   - description: '7 years of experience of conducting data acquisition, surveying through KoBo Toolbox/ODK and relevant technologies'
     icon: square-poll-vertical
     icon_pack: fas
