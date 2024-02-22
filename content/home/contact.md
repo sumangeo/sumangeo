@@ -33,12 +33,16 @@ content:
       icon_pack: fab
       name: Facebook
       link: 'https://facebook.com/SumanGeo'
-    - icon: skype
+    - icon: whatsapp
       icon_pack: fab
-      name: Skype Me
-      link: 'skype:Suman.rbd?call'
+      name: Whatsapp
+      link: 'https://wa.me/8801521500081/?text=Hi'
     - icon: globe
       icon_pack: fab
+      name: EGIT Solutions
+      link: 'https://sites.google.com/view/egitsolutions'      
+    - icon: globe
+      icon_pack: fas
       name: PGDICT43
       link: 'https://pgdict43.netlify.app'
 
