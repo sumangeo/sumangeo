@@ -3,7 +3,7 @@ summary: ""
 draft: false
 author: admin
 slug: md-post-suman
-title: Prompt Engineering
+title: AI Prompt Engineering
 date: 2023-05-10T19:05:07.172Z
 tags:
   - AI
