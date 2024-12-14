@@ -1,6 +1,5 @@
 ---
-title: Role of artificial intelligence (AI) in civil engineering to minimize
-  environment pollution
+title: Role of artificial intelligence (AI) in civil engineering to minimize environment pollution
 publication_types:
   - "2"
 authors:
