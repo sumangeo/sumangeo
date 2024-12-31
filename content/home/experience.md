@@ -24,19 +24,31 @@ date_format: Jan 2006
 #   multiline `>-`
 
 experience:
-  - title: 'Consultant - Data Processing'
+  - title: 'Environmental Specialist'
     company: 'Ministry of Land'
-    company_url: 'http://www.minland.gov.bd/'
+    company_url: 'http://www.landzoning.gov.bd/'
     company_logo: bd  # Optional logo
     location: 'Dhaka'
     date_start: '2021-04-11'
-    date_end: ''
+    date_end: '2024-11-30'
     description: |2-
         Responsibilities include:
-        * Conduct surveys
-        * Monitoring and Evaluation
+        * GIS and Remote sensing, Geospatial analysis
+        * Environmental Policy
+        * EIA, EMP, SEA, M&E
+  - title: 'Consultant'
+    company: 'Ministry of Land'
+    company_url: 'http://www.landzoning.gov.bd/'
+    company_logo: bd  # Optional logo
+    location: 'Dhaka'
+    date_start: '2021-04-11'
+    date_end: '2024-11-30'
+    description: |2-
+        Responsibilities include:
         * GIS and Remote sensing, Geospatial analysis
         * Geodatabase, Land Use Information and Management Systems
+        * Conduct surveys, Data Analysis, Impact Assessment
+        * Monitoring and Evaluation      
                 
   - title: 'Monitoring and ICT Officer'
     company: 'DASCOH Foundation'
