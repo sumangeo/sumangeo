@@ -29,8 +29,8 @@ experience:
     company_url: 'http://www.landzoning.gov.bd/'
     company_logo: bd  # Optional logo
     location: 'Dhaka'
-    date_start: '2021-04-11'
-    date_end: '2024-11-30'
+    date_start: '2024-12-01'
+    date_end: ''
     description: |2-
         Responsibilities include:
         * GIS and Remote sensing, Geospatial analysis
