@@ -50,7 +50,7 @@ experience:
         * Conduct surveys, Data Analysis, Impact Assessment
         * Monitoring and Evaluation      
                 
-  - title: 'Monitoring and ICT Officer'
+  - title: 'Monitoring & Evaluation Officer'
     company: 'DASCOH Foundation'
     company_url: 'https://dascoh.org/'
     company_logo: dascoh  # Optional logo
