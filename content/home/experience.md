@@ -35,7 +35,7 @@ experience:
         Responsibilities include:
         * GIS and Remote sensing, Geospatial analysis
         * Environmental Policy
-        * EIA, EMP, SEA, M&E
+        * EIA, EA, EMP, SIA, SEA, ESIA, M&E
   - title: 'Consultant'
     company: 'Ministry of Land'
     company_url: 'http://www.landzoning.gov.bd/'
