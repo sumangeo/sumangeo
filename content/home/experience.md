@@ -53,7 +53,7 @@ experience:
   - title: 'Monitoring & Evaluation Officer'
     company: 'DASCOH Foundation'
     company_url: 'https://dascoh.org/'
-    company_logo: dascoh  # Optional logo
+    company_logo: dascoh  # optionl logo
     location: 'Rajshahi'
     date_start: '2015-06-14'
     date_end: '2021-04-08'
