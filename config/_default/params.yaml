@@ -16,9 +16,9 @@ marketing:
     org_name: ''
     description: 'Suman personal web app'
     twitter: 'SumanGeo'
-  verification:
-    google: ''
-    baidu: ''
+  # verification:
+  #   google: ''
+  #   baidu: ''
     
 # Site header
 
