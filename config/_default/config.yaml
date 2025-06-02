@@ -83,6 +83,6 @@ minify:
   _merge: deep
 
 # If you use Google Analytics, add this block (otherwise omit it)
-# services:
-#   googleAnalytics:
-#     ID: "UA-XXXXXXXXX-X"  # Or your GA4 ID
+services:
+  googleAnalytics:
+    ID: "G-TRC2FMB9B3"
