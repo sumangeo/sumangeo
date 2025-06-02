@@ -1,8 +1,8 @@
 ---
 title: "SQL Queries"
 subtitle: "SQL Statements"
-date: 2024-02-18T17:15:54.173Z
-summary: S﻿QL Statements
+date: 2024-02-18
+summary: SQL Statements
 draft: false
 featured: false
 tags:

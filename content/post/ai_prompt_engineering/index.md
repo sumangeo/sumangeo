@@ -4,7 +4,7 @@ draft: false
 author: admin
 slug: ai_prompt_engineering
 title: AI Prompt Engineering
-date: 2023-05-10T19:05:07.172Z
+date: 2023-05-10
 tags:
   - AI
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Glossary of Key Terms in Evaluation and Results-Based Management "
 subtitle: "2nd Edition – Prepublication version | DAC Network on Development Evaluation "
-date: 2023-06-04T12:37:14.302Z
+date: 2023-06-04
 summary: "This Glossary provides conceptual clarity on common terms used in
   results based management, monitoring and evaluation. This 2nd Edition includes
   new terms, as well as updates and improvements to the original Glossary

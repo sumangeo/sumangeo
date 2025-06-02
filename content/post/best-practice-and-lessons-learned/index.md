@@ -1,6 +1,6 @@
 ---
 title: Best practice and lessons learned
-date: 2023-06-06T02:25:17.551Z
+date: 2023-06-06
 draft: false
 featured: false
 tags:

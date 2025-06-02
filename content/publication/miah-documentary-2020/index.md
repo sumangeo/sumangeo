@@ -8,11 +8,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2020-11-02T00:00:00Z'
+date: '2020-11-02'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2017-01-01'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
