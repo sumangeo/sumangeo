@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
-subtitle: 'Training & Short Courses I've accomplished'
+subtitle: "Training & Short Courses I've accomplished"
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
+items:
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'
@@ -49,5 +49,5 @@ item:
     url: ''
 
 design:
-  columns: '2'
+  columns: 2
 ---
