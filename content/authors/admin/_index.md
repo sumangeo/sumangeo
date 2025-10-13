@@ -6,30 +6,31 @@ title: MD SUMAN MIAH
 superuser: true
 
 # Role/position/tagline
-role: Hydrogeologist, Data Analyst and Evaluation Practitioner
+role: Environmental Specialist, Hydrogeologist, and Evaluation Practitioner
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Ministry of Land
-    url: http://www.minland.gov.bd/
+    url: http://www.landzoning.gov.bd/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Experienced and skilled in data acquisition, processing, Monitoring and Evaluation, and GIS mapping through the training and academic journey. Passionate to use these skills to solve the challenging development sector.
+bio: An Environmental Specialist with expertise in climate change impact and resilience, combining hydrogeology and data analytics to drive sustainable solutions in South Asia. Passionate about advancing environmental sustainability through research and community-centered projects.
 
 # Interests to show in About widget
 interests:
-  - Hydrogeology, Water Management
-  - Monitoring & Evaluation, MEAL, MEL
-  - Data Science, Data Analysis
-  - GIS, Remote Sensing, Mapping
-  - Survey, Data Collection
-  - Data Visualization
   - Environment, Climate Change
+  - Hydrogeology, Water Management
+  - GIS, Remote Sensing, Mapping
+  - Monitoring & Evaluation, MEAL, MEL
+  - Data Science
 
 
 # Education to show in About widget
 education:
   courses:
+    - course: Master of Science in Environmental Science
+      institution: Jahangirnagar University
+      year: 2024
     - course: MSc. in Geology and Mining (Water & Environmental Management)
       institution: University of Rajshahi
       year: 2012
@@ -37,26 +38,27 @@ education:
         Hydrology & so on)
       institution: University of Rajshahi
       year: 2011
-    - course: Multilevel Water Governance
+    - course: Post Graduate Diploma (PGD) in ICT (PGDICT)
+      institution: BKIICT, Dhaka
+      year: 2023       
+    - course: Graduated IPDET Core Course on Evaluation (World Bank Funded Scholarship)
+      institution: University of Bern, Switzerland
+      year: 2024
+    - course: Multilevel Water Governance (Dutch OKP Scholarship)
       institution: The Hague Academy for Local Governance, The Hague, Netherlands
-      year: 2019
-    - course: International Water Law and the Law of Transboundary Aquifers
-      institution: University of Geneva, Geneva Water Hub, DiploFoundation and
-        received the financial support of the Swiss Agency for Development and
-        Cooperation
+      year: 2019   
+    - course: International Water Law and the Law of Transboundary Aquifers (SDC Scholarship)
+      institution: University of Geneva, Switzerland 
       year: 2019
     - course: Faecal Sludge and Water Management in Rural Areas
       institution: Centre for Science and Environment (CSE), New Delhi, India
       year: 2021
     - course: Geographic Information System (GIS)
-      institution: Department of Urban and Regional Planning, Rajshahi University of Engineering and Technology (RUET)
+      institution: RUET
       year: 2015
     - course: Surveying
       institution: Dhaka Polytechnic Institute, BTEB
-      year: 2022    
-    - course: Post Graduate Diploma (PGD) in ICT (PGDICT)
-      institution: Bangladesh Korea Institute of Information and Communication Technology (BKIICT), Bangladesh Computer Council (BCC)
-      year: 2023          
+      year: 2022             
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -87,12 +89,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'suman.rubd@yahoo.com'
+email: 'suman.env.bd@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a dedicated and self-motivated Hydrogeologist, Data Analytics and evaluation practitioner in the humanitarian and development sector. Experienced in climate change impact/vulnerability/risk assessment; water and climate change adaptation and resilience research in South Asia. Skilled in designing and developing surveys, collecting, digitalizing, and processing various types of qualitative and quantitative data i.e. hydrogeological, environmental, and geospatial data with over 6 years of experience in govt. and I/NGO such as DASCOH, SRC, Water Relief, and Ministry of Land, Bangladesh. By training, I am a hydrogeologist while I have advanced training in M&E, Data Analytics and GIS. I am actively pursuing a challenging key position as Data Scientist/ M&E Lead in development sector to take my career to the next level and expand my experience. My career interest is to contribute to sustainable global development worldwide. 
+As an Environmental Specialist with a passion for sustainability, I bring over 6 years of experience working at the intersection of climate change, water resources, and community resilience in South Asia. With a foundation in hydrogeology and strong skills in data analytics, M&E, and GIS, I thrive on turning complex environmental data into actionable insights that help drive positive change. I've been fortunate to collaborate with diverse teams in government and NGOs like DASCOH, SRC, Water Relief, and Bangladesh’s Ministry of Land, contributing to projects that build climate-adaptive solutions and protect vulnerable communities. I’m eager to connect with like-minded professionals and continue growing my impact in the sustainable development space.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
