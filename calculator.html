@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>VAT/Tax Calculator</title>
+</head>
+<body>
+  <h1>VAT/Tax Calculator</h1>
+  <label>Amount: <input id="amount" type="number" /></label><br>
+  <label>VAT rate (%): <input id="vatRate" type="number" /></label><br>
+  <button onclick="calculateVAT()">Calculate</button>
+  <p id="output"></p>
+  <script>
+    function calculateVAT() {
+      const amount = parseFloat(document.getElementById("amount").value);
+      const vatRate = parseFloat(document.getElementById("vatRate").value);
+      if (isNaN(amount) || isNaN(vatRate)) {
+        document.getElementById("output").textContent = "Please enter valid numbers.";
+        return;
+      }
+      const vat = (amount * vatRate) / 100;
+      const total = amount + vat;
+      document.getElementById("output").textContent = `VAT: ${vat.toFixed(2)} | Total: ${total.toFixed(2)}`;
+    }
+  </script>
+</body>
+</html>
