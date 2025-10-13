@@ -4,49 +4,112 @@
   <meta charset="UTF-8" />
   <title>VAT & Tax Calculator</title>
   <style>
-    body { font-family: Arial, sans-serif; margin: 30px; max-width: 400px; }
-    input, button { width: 100%; padding: 8px; margin: 10px 0; }
-    .result { font-weight: bold; margin-top: 15px; }
+    body { font-family: Arial, sans-serif; margin: 30px; max-width: 480px; }
+    label, input, button { display: block; width: 100%; margin: 10px 0; }
+    input { padding: 8px; box-sizing: border-box; }
+    button { padding: 10px; }
+    .result { margin-top: 20px; font-weight: bold; }
   </style>
 </head>
 <body>
   <h1>VAT & Tax Calculator</h1>
-  
-  <label>Base Amount:</label>
+
+  <h2>VAT Tax Adding</h2>
+  <label>Base Amount (D3):</label>
   <input type="number" id="baseAmount" placeholder="Enter base amount" step="0.01" />
+
+  <label>Tax % (X):</label>
+  <input type="number" id="taxPercent" placeholder="Enter tax percentage X" step="0.01" />
   
-  <label>Submitted Bill:</label>
+  <label>VAT % (Y):</label>
+  <input type="number" id="vatPercent" placeholder="Enter VAT percentage Y" step="0.01" />
+  
+  <button onclick="calculateAdding()">Calculate VAT + Tax Adding</button>
+  
+  <div class="result" id="resultAdding"></div>
+
+  <hr />
+
+  <h2>VAT Tax Deducting</h2>
+  <label>Submitted Bill (H3):</label>
   <input type="number" id="submittedBill" placeholder="Enter submitted bill" step="0.01" />
+
+  <label>VAT % (Y):</label>
+  <input type="number" id="vatPercent2" placeholder="Enter VAT percentage Y" step="0.01" />
+
+  <label>Tax % (X):</label>
+  <input type="number" id="taxPercent2" placeholder="Enter tax percentage X" step="0.01" />
   
-  <button onclick="calculateVATTax()">Calculate</button>
+  <button onclick="calculateDeducting()">Calculate VAT + Tax Deducting</button>
   
-  <div class="result" id="result"></div>
-  
+  <div class="result" id="resultDeducting"></div>
+
   <script>
-    function calculateVATTax() {
+    function calculateAdding() {
       const baseAmount = parseFloat(document.getElementById('baseAmount').value);
-      const submittedBill = parseFloat(document.getElementById('submittedBill').value);
-      
-      if (isNaN(baseAmount) || isNaN(submittedBill)) {
-        document.getElementById('result').innerText = 'Please enter valid numbers';
+      const taxPercent = parseFloat(document.getElementById('taxPercent').value);
+      const vatPercent = parseFloat(document.getElementById('vatPercent').value);
+
+      if (isNaN(baseAmount) || isNaN(taxPercent) || isNaN(vatPercent)) {
+        document.getElementById('resultAdding').innerText = 'Please enter valid numbers for base amount, tax %, and VAT %';
         return;
       }
-      
-      const taxRate = 10;   // 10% tax
-      const vatRate = 15;   // 15% VAT
-      
-      const grossedUpAmount = baseAmount * (1 + taxRate / 100);
-      const taxAmount = grossedUpAmount - baseAmount;
-      const vatAmount = submittedBill * (vatRate / 100);
-      const vatAndTax = taxAmount + vatAmount;
-      
-      document.getElementById('result').innerHTML = `
-        Grossed-up Amount (with 10% tax): ${grossedUpAmount.toFixed(2)}<br/>
-        Tax Amount (10% part): ${taxAmount.toFixed(2)}<br/>
-        VAT Amount (15% on Submitted Bill): ${vatAmount.toFixed(2)}<br/>
-        Total VAT + Tax: ${vatAndTax.toFixed(2)}<br/>
-        Bill with VAT & Tax: ${submittedBill.toFixed(2)}<br/>
-        Bill after VAT & Tax: ${baseAmount.toFixed(2)}
+
+      // Grossed up with X% tax = (Base * 100) / (100 - X)
+      const grossedUp = (baseAmount * 100) / (100 - taxPercent);
+
+      // So, X% tax = D4 - D3 (grossedUp - baseAmount)
+      const taxAmount = grossedUp - baseAmount;
+
+      // Y% Vat = grossedUp * Y/100
+      const vatAmount = grossedUp * vatPercent / 100;
+
+      // Vat + Tax = taxAmount + vatAmount
+      const vatPlusTax = taxAmount + vatAmount;
+
+      // Bill decide (with vat & tax) = grossedUp + vatAmount
+      const billWithVatTax = grossedUp + vatAmount;
+
+      document.getElementById('resultAdding').innerHTML = `
+        Grossed-up with ${taxPercent}% Tax: ${grossedUp.toFixed(2)}<br />
+        X% Tax Amount: ${taxAmount.toFixed(2)}<br />
+        Y% VAT Amount: ${vatAmount.toFixed(2)}<br />
+        VAT + Tax Total: ${vatPlusTax.toFixed(2)}<br />
+        Bill with VAT & Tax: ${billWithVatTax.toFixed(2)}
+      `;
+    }
+
+    function calculateDeducting() {
+      const submittedBill = parseFloat(document.getElementById('submittedBill').value);
+      const vatPercent = parseFloat(document.getElementById('vatPercent2').value);
+      const taxPercent = parseFloat(document.getElementById('taxPercent2').value);
+
+      if (isNaN(submittedBill) || isNaN(vatPercent) || isNaN(taxPercent)) {
+        document.getElementById('resultDeducting').innerText = 'Please enter valid numbers for submitted bill, VAT %, and tax %';
+        return;
+      }
+
+      // Y% Vat = (submittedBill * Y) / (100 + Y)
+      const vatAmount = (submittedBill * vatPercent) / (100 + vatPercent);
+
+      // Rest after Y% Vat = submittedBill - vatAmount
+      const restAfterVat = submittedBill - vatAmount;
+
+      // X% Tax = restAfterVat * X/100
+      const taxAmount = restAfterVat * taxPercent / 100;
+
+      // Vat + Tax = vatAmount + taxAmount
+      const vatPlusTax = vatAmount + taxAmount;
+
+      // Provide Bill (after vat & Tax) = submittedBill - vatPlusTax
+      const provideBill = submittedBill - vatPlusTax;
+
+      document.getElementById('resultDeducting').innerHTML = `
+        VAT Amount (${vatPercent}%): ${vatAmount.toFixed(2)}<br />
+        Rest after VAT: ${restAfterVat.toFixed(2)}<br />
+        Tax Amount (${taxPercent}%): ${taxAmount.toFixed(2)}<br />
+        VAT + Tax Total: ${vatPlusTax.toFixed(2)}<br />
+        Provided Bill after VAT & Tax: ${provideBill.toFixed(2)}
       `;
     }
   </script>
