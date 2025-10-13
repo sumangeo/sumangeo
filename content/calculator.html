@@ -2,25 +2,52 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>VAT/Tax Calculator</title>
+  <title>VAT & Tax Calculator</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 30px; max-width: 400px; }
+    input, button { width: 100%; padding: 8px; margin: 10px 0; }
+    .result { font-weight: bold; margin-top: 15px; }
+  </style>
 </head>
 <body>
-  <h1>VAT/Tax Calculator</h1>
-  <label>Amount: <input id="amount" type="number" /></label><br>
-  <label>VAT rate (%): <input id="vatRate" type="number" /></label><br>
-  <button onclick="calculateVAT()">Calculate</button>
-  <p id="output"></p>
+  <h1>VAT & Tax Calculator</h1>
+  
+  <label>Base Amount:</label>
+  <input type="number" id="baseAmount" placeholder="Enter base amount" step="0.01" />
+  
+  <label>Submitted Bill:</label>
+  <input type="number" id="submittedBill" placeholder="Enter submitted bill" step="0.01" />
+  
+  <button onclick="calculateVATTax()">Calculate</button>
+  
+  <div class="result" id="result"></div>
+  
   <script>
-    function calculateVAT() {
-      const amount = parseFloat(document.getElementById("amount").value);
-      const vatRate = parseFloat(document.getElementById("vatRate").value);
-      if (isNaN(amount) || isNaN(vatRate)) {
-        document.getElementById("output").textContent = "Please enter valid numbers.";
+    function calculateVATTax() {
+      const baseAmount = parseFloat(document.getElementById('baseAmount').value);
+      const submittedBill = parseFloat(document.getElementById('submittedBill').value);
+      
+      if (isNaN(baseAmount) || isNaN(submittedBill)) {
+        document.getElementById('result').innerText = 'Please enter valid numbers';
         return;
       }
-      const vat = (amount * vatRate) / 100;
-      const total = amount + vat;
-      document.getElementById("output").textContent = `VAT: ${vat.toFixed(2)} | Total: ${total.toFixed(2)}`;
+      
+      const taxRate = 10;   // 10% tax
+      const vatRate = 15;   // 15% VAT
+      
+      const grossedUpAmount = baseAmount * (1 + taxRate / 100);
+      const taxAmount = grossedUpAmount - baseAmount;
+      const vatAmount = submittedBill * (vatRate / 100);
+      const vatAndTax = taxAmount + vatAmount;
+      
+      document.getElementById('result').innerHTML = `
+        Grossed-up Amount (with 10% tax): ${grossedUpAmount.toFixed(2)}<br/>
+        Tax Amount (10% part): ${taxAmount.toFixed(2)}<br/>
+        VAT Amount (15% on Submitted Bill): ${vatAmount.toFixed(2)}<br/>
+        Total VAT + Tax: ${vatAndTax.toFixed(2)}<br/>
+        Bill with VAT & Tax: ${submittedBill.toFixed(2)}<br/>
+        Bill after VAT & Tax: ${baseAmount.toFixed(2)}
+      `;
     }
   </script>
 </body>
