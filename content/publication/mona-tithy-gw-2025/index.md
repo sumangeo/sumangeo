@@ -31,7 +31,7 @@ summary: Translated Book
 
 tags:
   - Groundwater
-  - CHildren
+  - Children
 
 
 # Display this page in the Featured widget?
