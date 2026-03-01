@@ -23,7 +23,7 @@ main:
     url: '#courses'
     weight: 60
   - name: CV
-    url: uploads/resumes.pdf
+    url: uploads/resume.pdf
     weight: 70
   - name: Contact
     url: '#contact'
